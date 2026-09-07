@@ -29,7 +29,8 @@ The CSV output was imported into Power BI to analyze:
 - Number of books by rating category
 - In-stock vs out-of-stock distribution
 
-*(Add your dashboard screenshot here: `dashboard_screenshot.png`)*
+<img width="757" height="539" alt="image" src="https://github.com/user-attachments/assets/be68591e-fa54-4dc4-8236-58397fe5b2af" />
+
 
 ## 📁 Project Structure
 ```
